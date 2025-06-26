@@ -1,5 +1,5 @@
 [project]
-name = "worldbank-package"
+name = "worldbank-package-ac"
 version = "1.0.0"
 description = "Ce package permet de recuperer les donnees de la banque mondiale en format dataframe."
 
