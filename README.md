@@ -1,4 +1,4 @@
-## Titre: Projet Google Cloud Plateform
+## Titre: Projet Creation de package 
 
 - Auteur: Ariel Christ Austhen Ngato Ndamokoziade, M2DSIA 
 - email: achristngato@groupeisi.com 
