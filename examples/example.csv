@@ -1,0 +1,6 @@
+countryiso3code,date,value,unit,obs_status,decimal,country_name,country_code,indicator_name,indicator_code
+FRA,2024,,,,0,France,FR,GDP (current US$),NY.GDP.MKTP.CD
+FRA,2023,3051831611384.76,,,0,France,FR,GDP (current US$),NY.GDP.MKTP.CD
+FRA,2022,2796302210398.84,,,0,France,FR,GDP (current US$),NY.GDP.MKTP.CD
+FRA,2021,2966433692008.09,,,0,France,FR,GDP (current US$),NY.GDP.MKTP.CD
+FRA,2020,2647926055110.05,,,0,France,FR,GDP (current US$),NY.GDP.MKTP.CD
