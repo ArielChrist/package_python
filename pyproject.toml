@@ -1,14 +1,21 @@
 [project]
-name = "worldbank-package-ac"
-version = "1.0.0"
-description = "Ce package permet de recuperer les donnees de la banque mondiale en format dataframe."
+name = "worldbank-ac"
+version = "0.1.0"
+description = "Package Python pour récupérer les données économiques du Sénégal via l'API World Bank"
 
-License = "MIT"
-readme = "README"
+readme = "README.md"
+license = {text = "MIT"}
 requires-python = ">=3.7"
 
-authors = [{ name = "arielchrist", email = "achristngato@groupeisi.com"}]
-dependcies = ["pandas","resquest"]
+authors = [
+    {name = "arielchrist", email = "achristngato@groupeisi.com"}
+]
+dependencies=["pandas"]
+
+[project.urls]
+Homepage = "https://github.com/ArielChrist/"
+Repository = "https://github.com/ArielChrist/"
+Issues = "https://github.com/ArielChrist/slugify-fr/issues"
 
 [build-system]
 requires = ["setuptools", "wheel"]
